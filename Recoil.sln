@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recoil.Windows", "Recoil.Windows\Recoil.Windows.csproj", "{5364B3D0-3D90-4B79-905A-839672395117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recoil.Shared", "Recoil.Shared\Recoil.Shared.csproj", "{AB751966-B942-4AB3-84E8-92DA473D7B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5364B3D0-3D90-4B79-905A-839672395117}.Debug|x86.ActiveCfg = Debug|x86
+		{5364B3D0-3D90-4B79-905A-839672395117}.Debug|x86.Build.0 = Debug|x86
+		{5364B3D0-3D90-4B79-905A-839672395117}.Release|x86.ActiveCfg = Release|x86
+		{5364B3D0-3D90-4B79-905A-839672395117}.Release|x86.Build.0 = Release|x86
+		{AB751966-B942-4AB3-84E8-92DA473D7B1C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AB751966-B942-4AB3-84E8-92DA473D7B1C}.Debug|x86.Build.0 = Debug|Any CPU
+		{AB751966-B942-4AB3-84E8-92DA473D7B1C}.Release|x86.ActiveCfg = Release|Any CPU
+		{AB751966-B942-4AB3-84E8-92DA473D7B1C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
